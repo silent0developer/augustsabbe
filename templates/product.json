@@ -1,0 +1,387 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "title": {
+          "type": "title",
+          "settings": {}
+        },
+        "loox_reviews_loox_snippets_widget_LQLW7G": {
+          "type": "shopify://apps/loox-reviews/blocks/loox-snippets-widget/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e",
+          "settings": {
+            "alignment": "left",
+            "max-width": "",
+            "color-scheme": "default",
+            "shadow": "",
+            "show-rating": true,
+            "show-image": true,
+            "hide-arrows-mobile": false,
+            "font-size": 14,
+            "show-border": false,
+            "border-radius": 16,
+            "background-color": "",
+            "text-color": "",
+            "name-color": "",
+            "rating-icon-color": "",
+            "border-color": "",
+            "shadow-color": "",
+            "reviews-limit": 10
+          }
+        },
+        "description": {
+          "type": "description",
+          "settings": {}
+        },
+        "collapsible_tab_QHy3dp": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "What Are Sabbes Made Of?",
+            "icon": "recycle",
+            "content": "<p><strong>Sabbe Daily </strong>95% combed cotton, 5% elastane.</p><p><strong>Sabbe Sports </strong>90% polyester and 10% elastane.</p><p><strong>Sabbe Celebration </strong>95% modal, 5% elastane, a naturally sourced fiber known for its silky softness and durability. An eco-friendly and sustainable material.</p>",
+            "page": ""
+          }
+        },
+        "collapsible_tab_ezFCF4": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Size Chart",
+            "icon": "ruler",
+            "content": "<p>Measure your waist.<br/><br/>XS: 76 cm (30 inches)<br/>S: 82 cm (32 inches)<br/>M: 88 cm (34 inches)<br/>L: 94 cm (37 inches)<br/>XL: 100 cm (39 inches)<br/>XXL: 106 cm (42 inches)</p><p>Grab your normal size. Sabbes are the same size as all other top underwear brands (Calvin Klein, Nike, Björn Borg, etc).</p>",
+            "page": ""
+          }
+        },
+        "collapsible_tab_3rfJzq": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Free & Fast Shipping Worldwide",
+            "icon": "plane",
+            "content": "<p>Only 2-4 business days with FedEx. Free for all orders!</p>",
+            "page": ""
+          }
+        },
+        "collapsible_tab_BbRbAJ": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Ordered a Wrong Size?",
+            "icon": "return",
+            "content": "<p><strong>99% of our customers order the right size. </strong></p><p>If it happens that the Sabbes you ordered are not your fit then please send us an email to andreas@augustsabbe.com, and we'll send you the right size of Sabbes, free of charge.</p>",
+            "page": ""
+          }
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "button",
+            "swatch_shape": "circle"
+          }
+        },
+        "quantity_selector": {
+          "type": "quantity_selector",
+          "settings": {}
+        },
+        "price": {
+          "type": "price",
+          "settings": {}
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true,
+            "show_gift_card_recipient": true
+          }
+        }
+      },
+      "block_order": [
+        "title",
+        "loox_reviews_loox_snippets_widget_LQLW7G",
+        "description",
+        "collapsible_tab_QHy3dp",
+        "collapsible_tab_ezFCF4",
+        "collapsible_tab_3rfJzq",
+        "collapsible_tab_BbRbAJ",
+        "variant_picker",
+        "quantity_selector",
+        "price",
+        "buy_buttons"
+      ],
+      "custom_css": [
+        ".product-form__submit {background-color: #03961b !important; /* Green background */ color: #ffffff !important; /* white text */}"
+      ],
+      "settings": {
+        "enable_sticky_info": true,
+        "color_scheme": "scheme-5",
+        "media_size": "medium",
+        "constrain_to_viewport": true,
+        "media_fit": "contain",
+        "gallery_layout": "stacked",
+        "media_position": "left",
+        "image_zoom": "lightbox",
+        "mobile_thumbnails": "hide",
+        "hide_variants": true,
+        "enable_video_looping": false,
+        "padding_top": 36,
+        "padding_bottom": 12
+      }
+    },
+    "related-products": {
+      "type": "related-products",
+      "disabled": true,
+      "settings": {
+        "heading": "You may also like",
+        "heading_size": "h2",
+        "products_to_show": 4,
+        "columns_desktop": 4,
+        "color_scheme": "scheme-1",
+        "image_ratio": "square",
+        "image_shape": "default",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": false,
+        "columns_mobile": "2",
+        "padding_top": 36,
+        "padding_bottom": 28
+      }
+    },
+    "172666972106a9d4cd": {
+      "type": "apps",
+      "blocks": {
+        "loox_reviews_loox_dynamic_section_L77fPG": {
+          "type": "shopify://apps/loox-reviews/blocks/loox-dynamic-section/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e",
+          "settings": {
+            "only_photos": true,
+            "aggregated": false,
+            "limit": 10,
+            "hide_thumbnails": true,
+            "maxwidth": 1600,
+            "is_sample": false
+          }
+        }
+      },
+      "block_order": [
+        "loox_reviews_loox_dynamic_section_L77fPG"
+      ],
+      "settings": {
+        "include_margins": true
+      }
+    },
+    "17266711164217265c": {
+      "type": "apps",
+      "settings": {
+        "include_margins": true
+      }
+    },
+    "ss_video_with_text_3_7X4eix": {
+      "type": "ss-video-with-text-3",
+      "settings": {
+        "media": "video",
+        "video": "shopify://files/videos/sexiest underwear brand.mp4",
+        "video_url": "",
+        "media_width": 50,
+        "media_width_mobile": 100,
+        "media_position": "second",
+        "media_position_mobile": "second",
+        "media_ratio": "portrait",
+        "media_ratio_mobile": "original",
+        "media_border_thickness": 0,
+        "media_radius": 0,
+        "controls": true,
+        "autoplay": true,
+        "loop": true,
+        "content_padding_vertical": 32,
+        "content_padding_vertical_mobile": 12,
+        "content_padding_horizontal": 100,
+        "content_padding_horizontal_mobile": 12,
+        "heading": "<p>Women Love Sabbe</p>",
+        "heading_custom": false,
+        "heading_font": "raleway_n7",
+        "heading_size": 50,
+        "heading_size_mobile": 40,
+        "heading_height": 110,
+        "heading_align": "center",
+        "heading_align_mobile": "center",
+        "heading_position": "1",
+        "heading_position_mobile": "1",
+        "sub_heading": "<p><em>\"It looks very sexy on men!\"</em></p>",
+        "sub_heading_custom": true,
+        "sub_heading_font": "raleway_i3",
+        "sub_heading_size": 18,
+        "sub_heading_size_mobile": 18,
+        "sub_heading_height": 150,
+        "sub_heading_align": "center",
+        "sub_heading_align_mobile": "center",
+        "sub_heading_mt": 16,
+        "sub_heading_position": "3",
+        "sub_heading_position_mobile": "2",
+        "text": "",
+        "text_custom": false,
+        "text_font": "raleway_n4",
+        "text_size": 18,
+        "text_size_mobile": 18,
+        "text_height": 150,
+        "text_align": "left",
+        "text_align_mobile": "center",
+        "text_mt": 40,
+        "text_position": "2",
+        "text_position_mobile": "4",
+        "button": "",
+        "button_url": "",
+        "button_custom": false,
+        "button_font": "josefin_sans_n4",
+        "button_size": 18,
+        "button_size_mobile": 18,
+        "button_height": 100,
+        "button_align": "left",
+        "button_align_mobile": "center",
+        "button_mt": 32,
+        "button_padding_vertical": 16,
+        "button_padding_vertical_mobile": 16,
+        "button_padding_horizontal": 26,
+        "button_padding_horizontal_mobile": 26,
+        "button_radius": 32,
+        "button_border_thickness": 0,
+        "button_use_arrow": true,
+        "button_position": "4",
+        "button_position_mobile": "3",
+        "button_color": "#ffffff",
+        "button_hover_color": "#ffffff",
+        "button_bg_color": "#2f7d39",
+        "button_bg_hover_color": "#3e974a",
+        "button_border_color": "#000000",
+        "button_border_hover_color": "#000000",
+        "media_border_color": "#000000",
+        "heading_color": "#000000",
+        "sub_heading_color": "#000000",
+        "text_color": "#000000",
+        "background_color": "#ffffff",
+        "background_gradient": "",
+        "border_color": "#000000",
+        "margin_top": 0,
+        "margin_bottom": 0,
+        "padding_top": 36,
+        "padding_bottom": 36,
+        "padding_horizontal": 0,
+        "padding_horizontal_mobile": 0,
+        "full_width": true,
+        "content_width": 120,
+        "border_thickness": 0,
+        "lazy": true
+      }
+    },
+    "ss_video_with_text_3_t3VBDE": {
+      "type": "ss-video-with-text-3",
+      "settings": {
+        "media": "image",
+        "image": "shopify://shop_images/august_sabbe.webp",
+        "video": "shopify://files/videos/sexiest underwear brand.mp4",
+        "video_url": "",
+        "media_width": 50,
+        "media_width_mobile": 100,
+        "media_position": "first",
+        "media_position_mobile": "first",
+        "media_ratio": "landscape",
+        "media_ratio_mobile": "original",
+        "media_border_thickness": 0,
+        "media_radius": 0,
+        "controls": true,
+        "autoplay": true,
+        "loop": true,
+        "content_padding_vertical": 32,
+        "content_padding_vertical_mobile": 12,
+        "content_padding_horizontal": 100,
+        "content_padding_horizontal_mobile": 12,
+        "heading": "<p>Having Trouble Seeing Our Product in This Photo?</p>",
+        "heading_custom": false,
+        "heading_font": "raleway_n7",
+        "heading_size": 50,
+        "heading_size_mobile": 40,
+        "heading_height": 110,
+        "heading_align": "center",
+        "heading_align_mobile": "center",
+        "heading_position": "1",
+        "heading_position_mobile": "1",
+        "sub_heading": "<p><em>Welcome to the Sabbe club, brother!</em></p>",
+        "sub_heading_custom": true,
+        "sub_heading_font": "raleway_i3",
+        "sub_heading_size": 18,
+        "sub_heading_size_mobile": 18,
+        "sub_heading_height": 150,
+        "sub_heading_align": "center",
+        "sub_heading_align_mobile": "center",
+        "sub_heading_mt": 16,
+        "sub_heading_position": "3",
+        "sub_heading_position_mobile": "2",
+        "text": "",
+        "text_custom": false,
+        "text_font": "raleway_n4",
+        "text_size": 18,
+        "text_size_mobile": 18,
+        "text_height": 150,
+        "text_align": "left",
+        "text_align_mobile": "center",
+        "text_mt": 40,
+        "text_position": "2",
+        "text_position_mobile": "4",
+        "button": "",
+        "button_url": "",
+        "button_custom": false,
+        "button_font": "josefin_sans_n4",
+        "button_size": 18,
+        "button_size_mobile": 18,
+        "button_height": 100,
+        "button_align": "left",
+        "button_align_mobile": "center",
+        "button_mt": 32,
+        "button_padding_vertical": 16,
+        "button_padding_vertical_mobile": 16,
+        "button_padding_horizontal": 26,
+        "button_padding_horizontal_mobile": 26,
+        "button_radius": 32,
+        "button_border_thickness": 0,
+        "button_use_arrow": true,
+        "button_position": "4",
+        "button_position_mobile": "3",
+        "button_color": "#ffffff",
+        "button_hover_color": "#ffffff",
+        "button_bg_color": "#2f7d39",
+        "button_bg_hover_color": "#3e974a",
+        "button_border_color": "#000000",
+        "button_border_hover_color": "#000000",
+        "media_border_color": "#000000",
+        "heading_color": "#000000",
+        "sub_heading_color": "#000000",
+        "text_color": "#000000",
+        "background_color": "#ffffff",
+        "background_gradient": "",
+        "border_color": "#000000",
+        "margin_top": 0,
+        "margin_bottom": 0,
+        "padding_top": 36,
+        "padding_bottom": 36,
+        "padding_horizontal": 0,
+        "padding_horizontal_mobile": 0,
+        "full_width": true,
+        "content_width": 120,
+        "border_thickness": 0,
+        "lazy": true
+      }
+    }
+  },
+  "order": [
+    "main",
+    "related-products",
+    "172666972106a9d4cd",
+    "17266711164217265c",
+    "ss_video_with_text_3_7X4eix",
+    "ss_video_with_text_3_t3VBDE"
+  ]
+}

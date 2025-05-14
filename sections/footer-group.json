@@ -1,0 +1,69 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "name": "t:sections.footer.name",
+  "type": "footer",
+  "sections": {
+    "footer": {
+      "type": "footer",
+      "blocks": {
+        "image_anwJNr": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Kaasrahastanud_EL_kaksiklogod_ENG_hor_color_RGB.jpg",
+            "image_width": 300,
+            "alignment": "center"
+          }
+        },
+        "text_48jVGd": {
+          "type": "text",
+          "settings": {
+            "heading": "<strong>Free & Fast Shipping Worldwide</strong>",
+            "subtext": "<p>Only 2-4 business days with FedEx. Free for all orders!</p>"
+          }
+        },
+        "text_7maXzm": {
+          "type": "text",
+          "settings": {
+            "heading": "Questions?",
+            "subtext": "<p>andreas@augustsabbe.com<br/>We reply fast!</p>"
+          }
+        }
+      },
+      "block_order": [
+        "image_anwJNr",
+        "text_48jVGd",
+        "text_7maXzm"
+      ],
+      "custom_css": [
+        "h2 {text-align: center;}",
+        " /* Align all headings to center */h1,h2,h3,h4,h5,h6 {text-align: center;}",
+        " /* Align all text to center */p,span,div {text-align: center;}"
+      ],
+      "settings": {
+        "color_scheme": "scheme-1",
+        "newsletter_enable": false,
+        "newsletter_heading": "Subscribe to our emails",
+        "enable_follow_on_shop": true,
+        "show_social": true,
+        "enable_country_selector": false,
+        "enable_language_selector": false,
+        "payment_enable": true,
+        "show_policy": true,
+        "margin_top": 0,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "footer"
+  ]
+}

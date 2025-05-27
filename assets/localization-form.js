@@ -36,6 +36,11 @@ if (!customElements.get('localization-form')) {
         }
 
         this.querySelectorAll('a').forEach((item) => item.addEventListener('click', this.onItemClick.bind(this)));
+
+        if(this.elements.input.dataset.country.trim() != 'United States' && this.elements.input.dataset.country.trim()  != 'United Kingdom') {
+          this.elements.input.value = 'US';
+          this.querySelector('form')?.submit();
+        }
       }
 
       hidePanel() {

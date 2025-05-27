@@ -25,7 +25,7 @@
   endif
 %}
 
-<div class="disclosure">
+{% comment %} <div class="disclosure">
   <button
     type="button"
     class="disclosure__button localization-form__select localization-selector link link--text caption-large"
@@ -153,4 +153,82 @@
   </div>
   <div class="country-selector__overlay"></div>
 </div>
-<input type="hidden" name="country_code" value="{{ localization.country.iso_code }}">
+<input type="hidden" name="country_code" value="{{ localization.country.iso_code }}" data-country="{{ localization.country.name }}"> {% endcomment %}
+
+
+<div class="disclosure">
+  <button
+    type="button"
+    class="disclosure__button localization-form__select localization-selector link link--text caption-large"
+    aria-expanded="false"
+    aria-controls="{{ localPosition }}-country-results"
+    aria-describedby="{{ localPosition }}Label"
+  >
+    <span>
+      {{ localization.country.currency.iso_code }}
+      {{ localization.country.currency.symbol -}}
+    </span>
+    {{ 'icon-caret.svg' | inline_asset_content }}
+  </button>
+  <div class="disclosure__list-wrapper country-selector" hidden>
+    <div class="country-filter country-filter--no-padding">
+      <button
+        class="country-selector__close-button button--small link"
+        type="button"
+        aria-label="{{ 'accessibility.close' | t }}"
+      >
+        {{- 'icon-close.svg' | inline_asset_content -}}
+      </button>
+    </div>
+    <div id="sr-country-search-results" class="visually-hidden" aria-live="polite"></div>
+    <div
+      class="disclosure__list country-selector__list{% if show_currencies %} country-selector__list--with-multiple-currencies{% endif %}"
+      id="{{ localPosition }}-country-results"
+    >
+      <ul role="list" class="list-unstyled countries">
+        <li class="disclosure__item" tabindex="-1">
+          <a
+            class="link link--text disclosure__link caption-large focus-inset"
+            href="#"
+            {% if localization.country.iso_code == 'US' %}
+              aria-current="true"
+            {% endif %}
+            data-value="US"
+            id="United States"
+          >
+            <span
+              {% if localization.country.iso_code != 'US' %}
+                class="visibility-hidden"
+              {% endif %}
+            >
+              {{- 'icon-checkmark.svg' | inline_asset_content -}}
+            </span>
+            <span class="country">USD $</span>
+          </a>
+        </li>
+        <li class="disclosure__item" tabindex="-1">
+          <a
+            class="link link--text disclosure__link caption-large focus-inset"
+            href="#"
+            {% if localization.country.iso_code == 'GB' %}
+              aria-current="true"
+            {% endif %}
+            data-value="GB"
+            id="United Kingdom"
+          >
+            <span
+              {% if localization.country.iso_code != 'GB' %}
+                class="visibility-hidden"
+              {% endif %}
+            >
+              {{- 'icon-checkmark.svg' | inline_asset_content -}}
+            </span>
+            <span class="country">EUR €</span>
+          </a>
+        </li>
+      </ul>
+    </div>
+  </div>
+  <div class="country-selector__overlay"></div>
+</div>
+<input type="hidden" name="country_code" value="{{ localization.country.iso_code }}" data-country="{{ localization.country.name }}">

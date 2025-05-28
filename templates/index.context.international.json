@@ -20,7 +20,8 @@
         "desktop_content_position": "middle-center",
         "color_scheme": "scheme-3",
         "stack_images_on_mobile": false,
-        "show_text_below": true
+        "show_text_below": true,
+        "show_text_box": false
       },
       "blocks": {
         "heading": {
@@ -36,8 +37,8 @@
         "button": {
           "settings": {
             "button_label_1": "Shop Men",
-            "button_label_2": "Shop Women",
             "button_link_1": "shopify://collections/sabbemen",
+            "button_label_2": "Shop Women",
             "button_link_2": "shopify://collections/sabbewomen"
           }
         }

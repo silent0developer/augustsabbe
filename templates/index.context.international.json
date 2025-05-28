@@ -18,9 +18,9 @@
         "image": "shopify://shop_images/drell_banner.jpg",
         "image_2": "shopify://shop_images/women_banner_1.jpg",
         "desktop_content_position": "middle-center",
+        "color_scheme": "scheme-3",
         "stack_images_on_mobile": false,
-        "show_text_below": true,
-        "color_scheme": "scheme-3"
+        "show_text_below": true
       },
       "blocks": {
         "heading": {
@@ -36,7 +36,9 @@
         "button": {
           "settings": {
             "button_label_1": "Shop Men",
-            "button_label_2": "Shop Women"
+            "button_label_2": "Shop Women",
+            "button_link_1": "shopify://collections/sabbemen",
+            "button_link_2": "shopify://collections/sabbewomen"
           }
         }
       }

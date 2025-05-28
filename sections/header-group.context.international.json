@@ -12,5 +12,12 @@
   "context": {
     "market": "international"
   },
-  "sections": {}
+  "sections": {
+    "header": {
+      "settings": {
+        "logo_position": "middle-center"
+      },
+      "blocks": {}
+    }
+  }
 }

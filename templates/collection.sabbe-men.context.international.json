@@ -26,6 +26,9 @@
     "collection_list_ADjyB": {
       "type": "collection-list",
       "disabled": false,
+      "custom_css": [
+        "h2 {text-align: center;}"
+      ],
       "settings": {
         "title": "Men's Underwear",
         "heading_size": "h1",

@@ -12,5 +12,34 @@
   "context": {
     "market": "international"
   },
-  "sections": {}
+  "sections": {
+    "image_banner": {
+      "settings": {
+        "image": "shopify://shop_images/drell_banner.jpg",
+        "image_2": "shopify://shop_images/women_banner_1.jpg",
+        "desktop_content_position": "middle-center",
+        "stack_images_on_mobile": false,
+        "show_text_below": true,
+        "color_scheme": "scheme-3"
+      },
+      "blocks": {
+        "heading": {
+          "settings": {
+            "heading": "Strong Men Create Good Times"
+          }
+        },
+        "text_K6wedF": {
+          "settings": {
+            "text": "High-quality underwear and clothing for men and women who always fight to the end."
+          }
+        },
+        "button": {
+          "settings": {
+            "button_label_1": "Shop Men",
+            "button_label_2": "Shop Women"
+          }
+        }
+      }
+    }
+  }
 }

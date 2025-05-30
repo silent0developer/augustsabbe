@@ -205,10 +205,10 @@
           "background": "#ffffff",
           "background_gradient": "",
           "text": "#121212",
-          "button": "#03961b",
+          "button": "#334fb4",
           "button_label": "#ffffff",
-          "secondary_button_label": "#03961b",
-          "shadow": "#03961b"
+          "secondary_button_label": "#334fb4",
+          "shadow": "#334fb4"
         }
       },
       "scheme-7b88da64-9710-4b53-affb-304534e9ad03": {

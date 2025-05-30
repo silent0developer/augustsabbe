@@ -12,5 +12,12 @@
   "context": {
     "market": "international"
   },
-  "sections": {}
+  "sections": {
+    "main": {
+      "settings": {
+        "color_scheme": "scheme-5"
+      },
+      "blocks": {}
+    }
+  }
 }

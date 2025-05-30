@@ -12,5 +12,59 @@
   "context": {
     "market": "international"
   },
-  "sections": {}
+  "sections": {
+    "featured_collection_iB8H8G": {
+      "custom_css": [
+        "h2 {text-align: center;}"
+      ],
+      "settings": {
+        "show_description": false,
+        "view_all_style": "outline"
+      },
+      "blocks": {}
+    },
+    "featured_collection_pXEXHr": {
+      "custom_css": [
+        "h2 {text-align: center;}"
+      ],
+      "settings": {
+        "show_description": false,
+        "show_view_all": true,
+        "view_all_style": "outline"
+      },
+      "blocks": {}
+    },
+    "featured_collection_8R7zr7": {
+      "custom_css": [
+        "h2 {text-align: center;}"
+      ],
+      "settings": {
+        "show_description": false,
+        "view_all_style": "outline"
+      },
+      "blocks": {}
+    },
+    "featured_collection_xLXf3i": {
+      "custom_css": [
+        "h2 {text-align: center;}"
+      ],
+      "settings": {
+        "show_description": false,
+        "products_to_show": 2,
+        "columns_desktop": 2
+      },
+      "blocks": {}
+    },
+    "featured_collection_xDyxxt": {
+      "custom_css": [
+        "h2 {text-align: center;}"
+      ],
+      "settings": {
+        "show_description": false,
+        "products_to_show": 3,
+        "columns_desktop": 3
+      },
+      "blocks": {}
+    }
+  }
 }

@@ -13,21 +13,11 @@
     "market": "international"
   },
   "sections": {
-    "product-grid": {
-      "disabled": true,
-      "settings": {},
-      "blocks": {}
-    },
-    "banner": {
-      "disabled": true,
-      "settings": {},
-      "blocks": {}
-    },
     "collection_list_ADjyB": {
       "type": "collection-list",
       "disabled": false,
       "custom_css": [
-        "h2 {text-align: center;}"
+        ".collection-list-wrapper .title-wrapper-with-link {justify-content: center; text-align: center;}"
       ],
       "settings": {
         "title": "Men's Underwear",
@@ -36,10 +26,10 @@
         "columns_desktop": 4,
         "color_scheme": "",
         "show_view_all": false,
-        "header-824ee520bd75c9398ca25044949abe2b": null,
+        "header-b3bca0622845dafac2a03313e142e350": null,
         "columns_mobile": "2",
         "swipe_on_mobile": false,
-        "header-f4dd802ce4ed67581ff172f431203e68": null,
+        "header-52418354ecdf53bdb92caff9ad164208": null,
         "padding_top": 36,
         "padding_bottom": 36
       },
@@ -81,44 +71,12 @@
       ],
       "name": "t:sections.collection-list.presets.name"
     },
-    "featured_collection_iYcga": {
-      "type": "featured-collection",
-      "disabled": false,
-      "settings": {
-        "title": "Sabbe T-Shirts",
-        "heading_size": "h1",
-        "description": "",
-        "show_description": false,
-        "description_style": "body",
-        "collection": "mens-t-shirts",
-        "products_to_show": 3,
-        "columns_desktop": 3,
-        "full_width": false,
-        "show_view_all": true,
-        "view_all_style": "solid",
-        "enable_desktop_slider": false,
-        "color_scheme": "",
-        "header-2ff08bf3c915162ae7dd05c0a772a4c3": null,
-        "image_ratio": "adapt",
-        "image_shape": "default",
-        "show_secondary_image": false,
-        "show_vendor": false,
-        "show_rating": false,
-        "quick_add": "none",
-        "header-1f05eef037e33f52a66570184d25d5ed": null,
-        "columns_mobile": "2",
-        "swipe_on_mobile": false,
-        "header-78f89349dc23373c2d6b311b2a1b7e3a": null,
-        "padding_top": 36,
-        "padding_bottom": 36
-      },
-      "blocks": {},
-      "block_order": [],
-      "name": "t:sections.featured-collection.presets.name"
-    },
     "featured_collection_HAWHd": {
       "type": "featured-collection",
       "disabled": false,
+      "custom_css": [
+        "h2 {text-align: center;}"
+      ],
       "settings": {
         "title": "Best Sellers",
         "heading_size": "h1",
@@ -133,23 +91,71 @@
         "view_all_style": "solid",
         "enable_desktop_slider": false,
         "color_scheme": "",
-        "header-2ff08bf3c915162ae7dd05c0a772a4c3": null,
+        "header-8ff1dbc4a849595fa51b484f243c54ed": null,
         "image_ratio": "adapt",
         "image_shape": "default",
         "show_secondary_image": false,
         "show_vendor": false,
         "show_rating": false,
         "quick_add": "none",
-        "header-1f05eef037e33f52a66570184d25d5ed": null,
+        "header-42edd66a09912d94b890eefb27c1c49a": null,
         "columns_mobile": "2",
         "swipe_on_mobile": false,
-        "header-78f89349dc23373c2d6b311b2a1b7e3a": null,
+        "header-beee45ea4f018aa3230f482e158e8baf": null,
         "padding_top": 36,
         "padding_bottom": 36
       },
       "blocks": {},
       "block_order": [],
       "name": "t:sections.featured-collection.presets.name"
+    },
+    "featured_collection_iYcga": {
+      "type": "featured-collection",
+      "disabled": false,
+      "custom_css": [
+        "h2 {text-align: center;}"
+      ],
+      "settings": {
+        "title": "Sabbe T-Shirts",
+        "heading_size": "h1",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "mens-t-shirts",
+        "products_to_show": 3,
+        "columns_desktop": 3,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": false,
+        "color_scheme": "",
+        "header-fe76dad464149a07ff49c26888d1b705": null,
+        "image_ratio": "adapt",
+        "image_shape": "default",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "quick_add": "none",
+        "header-b3c164fa27d05ff8e2176a047c6bb20f": null,
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "header-45339666804db107817060fbec5fc478": null,
+        "padding_top": 36,
+        "padding_bottom": 36
+      },
+      "blocks": {},
+      "block_order": [],
+      "name": "t:sections.featured-collection.presets.name"
+    },
+    "banner": {
+      "disabled": true,
+      "settings": {},
+      "blocks": {}
+    },
+    "product-grid": {
+      "disabled": true,
+      "settings": {},
+      "blocks": {}
     }
   },
   "order": [

@@ -43,6 +43,26 @@
           }
         }
       }
+    },
+    "collection_list_6kEFhq": {
+      "settings": {
+        "columns_desktop": 4
+      },
+      "blocks": {
+        "featured_collection_yWrCc": {
+          "type": "featured_collection",
+          "disabled": false,
+          "settings": {
+            "collection": "sabbewomen"
+          }
+        }
+      },
+      "block_order": [
+        "featured_collection_Ke74MM",
+        "featured_collection_PyVVya",
+        "featured_collection_PBrP8y",
+        "featured_collection_yWrCc"
+      ]
     }
   }
 }

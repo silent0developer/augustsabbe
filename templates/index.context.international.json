@@ -45,6 +45,7 @@
       }
     },
     "collection_list_6kEFhq": {
+      "custom_css": [],
       "settings": {
         "columns_desktop": 4
       },
@@ -63,6 +64,13 @@
         "featured_collection_PBrP8y",
         "featured_collection_yWrCc"
       ]
+    },
+    "featured_collection_6afFgC": {
+      "custom_css": [
+        "h2 {text-align: center;}"
+      ],
+      "settings": {},
+      "blocks": {}
     }
   }
 }

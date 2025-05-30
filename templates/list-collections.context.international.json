@@ -12,5 +12,27 @@
   "context": {
     "market": "international"
   },
-  "sections": {}
+  "sections": {
+    "collection_list_KKRRnH": {
+      "custom_css": [],
+      "settings": {
+        "columns_desktop": 4
+      },
+      "blocks": {
+        "featured_collection_qKQrA": {
+          "type": "featured_collection",
+          "disabled": false,
+          "settings": {
+            "collection": "sabbewomen"
+          }
+        }
+      },
+      "block_order": [
+        "featured_collection_bNicPJ",
+        "featured_collection_GdQBAx",
+        "featured_collection_4mxCNM",
+        "featured_collection_qKQrA"
+      ]
+    }
+  }
 }

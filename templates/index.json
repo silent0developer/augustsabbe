@@ -159,8 +159,7 @@
     "featured_collection_6afFgC": {
       "type": "featured-collection",
       "custom_css": [
-        "/* Align all headings to center */h1,h2,h3,h4,h5,h6 {text-align: center;}",
-        " /* Align all text to center */p,span,div {text-align: center;}"
+        "h2 {text-align: center;}"
       ],
       "settings": {
         "title": "Top Sabbes",

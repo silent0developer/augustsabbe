@@ -163,7 +163,7 @@
         " /* Align all text to center */p,span,div {text-align: center;}"
       ],
       "settings": {
-        "title": "#sabbesquad's Top Picks",
+        "title": "Top Sabbes",
         "heading_size": "h1",
         "description": "",
         "show_description": false,

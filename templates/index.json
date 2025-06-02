@@ -15,25 +15,25 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "STRONG MEN CREATE GOOD TIMES",
-            "heading_size": "h1"
+            "heading": "Strong Men Create Good Times",
+            "heading_size": "h0"
           }
         },
         "text_K6wedF": {
           "type": "text",
           "settings": {
-            "text": "<strong>Premium Men's Underwear</strong>",
+            "text": "",
             "text_style": "subtitle"
           }
         },
         "button": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "SHOP SABBE BEAST COMBO",
-            "button_link_1": "shopify://products/sabbe-beast-combo",
+            "button_label_1": "Shop MEN",
+            "button_link_1": "shopify://collections/sabbemen",
             "button_style_secondary_1": false,
-            "button_label_2": "VIEW ALL COLLECTIONS",
-            "button_link_2": "shopify://collections",
+            "button_label_2": "Shop WOMEN",
+            "button_link_2": "shopify://collections/sabbewomen",
             "button_style_secondary_2": true
           }
         }
@@ -44,17 +44,18 @@
         "button"
       ],
       "settings": {
-        "image": "shopify://shop_images/3_c45244e4-c2ee-4a19-bc4d-5a002da7a2d9.webp",
+        "image": "shopify://shop_images/drell_banner.jpg",
+        "image_2": "shopify://shop_images/women_banner_1.jpg",
         "image_overlay_opacity": 20,
         "image_height": "large",
-        "desktop_content_position": "bottom-center",
+        "desktop_content_position": "middle-center",
         "show_text_box": false,
         "desktop_content_alignment": "center",
         "color_scheme": "scheme-3",
         "image_behavior": "none",
         "mobile_content_alignment": "center",
-        "stack_images_on_mobile": true,
-        "show_text_below": false
+        "stack_images_on_mobile": false,
+        "show_text_below": true
       }
     },
     "1726822957e5b89371": {
@@ -465,17 +466,17 @@
         "button_use_arrow": true,
         "button_position": "4",
         "button_position_mobile": "3",
-        "button_color": "#FFFFFF",
-        "button_hover_color": "#FFFFFF",
-        "button_bg_color": "#2F7D39",
-        "button_bg_hover_color": "#3E974A",
+        "button_color": "#ffffff",
+        "button_hover_color": "#ffffff",
+        "button_bg_color": "#2f7d39",
+        "button_bg_hover_color": "#3e974a",
         "button_border_color": "#000000",
         "button_border_hover_color": "#000000",
         "media_border_color": "#000000",
         "heading_color": "#000000",
         "sub_heading_color": "#000000",
         "text_color": "#000000",
-        "background_color": "#FFFFFF",
+        "background_color": "#ffffff",
         "background_gradient": "",
         "border_color": "#000000",
         "margin_top": 0,

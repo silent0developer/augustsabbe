@@ -139,10 +139,7 @@
         "featured_collection_rx3QEi",
         "featured_collection_BNmXJF"
       ],
-      "custom_css": [
-        "/* Align all headings to center */h1,h2,h3,h4,h5,h6 {text-align: center;}",
-        " /* Align all text to center */p,span,div {text-align: center;}"
-      ],
+      "custom_css": [],
       "settings": {
         "title": "",
         "heading_size": "h1",

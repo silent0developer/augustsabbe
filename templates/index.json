@@ -111,12 +111,33 @@
           "settings": {
             "collection": "sabbe-sports"
           }
+        },
+        "featured_collection_iHkQi7": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "sabbewomen"
+          }
+        },
+        "featured_collection_rx3QEi": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "henri-drell"
+          }
+        },
+        "featured_collection_BNmXJF": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "mens-t-shirts"
+          }
         }
       },
       "block_order": [
         "featured_collection_Ke74MM",
         "featured_collection_PyVVya",
-        "featured_collection_PBrP8y"
+        "featured_collection_PBrP8y",
+        "featured_collection_iHkQi7",
+        "featured_collection_rx3QEi",
+        "featured_collection_BNmXJF"
       ],
       "custom_css": [
         "/* Align all headings to center */h1,h2,h3,h4,h5,h6 {text-align: center;}",

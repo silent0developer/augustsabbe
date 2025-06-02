@@ -29,10 +29,10 @@
         "button": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "Shop MEN",
+            "button_label_1": "Sabbe MEN",
             "button_link_1": "shopify://collections/sabbemen",
             "button_style_secondary_1": false,
-            "button_label_2": "Shop WOMEN",
+            "button_label_2": "Sabbe WOMEN",
             "button_link_2": "shopify://collections/sabbewomen",
             "button_style_secondary_2": true
           }

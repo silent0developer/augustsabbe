@@ -12,6 +12,13 @@
     "main": {
       "type": "main-product",
       "blocks": {
+        "text_TNUmzC": {
+          "type": "text",
+          "settings": {
+            "text": "<em><strong>Ordering to Estonia? → </strong></em><a href=\"https://augustsabbe.com/products/henridrell\" title=\"https://augustsabbe.ee/products/henridrell\"><em><strong>AUGUSTSABBE.EE</strong></em></a>",
+            "text_style": "body"
+          }
+        },
         "title": {
           "type": "title",
           "settings": {}
@@ -102,6 +109,7 @@
         }
       },
       "block_order": [
+        "text_TNUmzC",
         "title",
         "loox_reviews_loox_snippets_widget_LQLW7G",
         "description",
@@ -128,7 +136,9 @@
         "hide_variants": true,
         "enable_video_looping": false,
         "padding_top": 36,
-        "padding_bottom": 12
+        "padding_bottom": 12,
+        "padding_top_mobile": 12,
+        "padding_bottom_mobile": 8
       }
     },
     "related-products": {

@@ -11,6 +11,7 @@
   "sections": {
     "banner": {
       "type": "main-collection-banner",
+      "disabled": true,
       "custom_css": [
         "/* Align all headings to center */h1,h2,h3,h4,h5,h6 {text-align: center;}",
         " /* Align all text to center */p,span,div {text-align: center;}",
@@ -29,8 +30,8 @@
         " /* Align all text to center */p,span,div {text-align: center;}"
       ],
       "settings": {
-        "products_per_page": 16,
-        "columns_desktop": 3,
+        "products_per_page": 28,
+        "columns_desktop": 4,
         "color_scheme": "scheme-1",
         "image_ratio": "portrait",
         "image_shape": "default",

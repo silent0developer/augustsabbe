@@ -119,7 +119,7 @@
       ],
       "settings": {
         "enable_sticky_info": true,
-        "color_scheme": "scheme-5",
+        "color_scheme": "scheme-a1843698-6982-41ce-9e99-f86a101de35c",
         "media_size": "medium",
         "constrain_to_viewport": false,
         "media_fit": "cover",
@@ -130,7 +130,9 @@
         "hide_variants": true,
         "enable_video_looping": false,
         "padding_top": 36,
-        "padding_bottom": 12
+        "padding_bottom": 12,
+        "padding_top_mobile": 12,
+        "padding_bottom_mobile": 8
       }
     },
     "related-products": {

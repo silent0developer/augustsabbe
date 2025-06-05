@@ -72,10 +72,10 @@
         "collapsible_tab_BbRbAJ": {
           "type": "collapsible_tab",
           "settings": {
-            "heading": "Ordered a Wrong Size?",
+            "heading": "Returns & Exchanges",
             "icon": "return",
-            "content": "<p><strong>99% of our customers order the right size. </strong></p><p>If it happens that the Sabbes you ordered are not your fit then please send us an email to andreas@augustsabbe.com, and we'll send you the right size of Sabbes, free of charge.</p>",
-            "page": ""
+            "content": "",
+            "page": "returns-exchanges"
           }
         },
         "variant_picker": {

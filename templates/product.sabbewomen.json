@@ -60,6 +60,15 @@
             "page": "womens-thong-size-chart"
           }
         },
+        "collapsible_tab_yi7Rkz": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Bralette Size Chart",
+            "icon": "ruler",
+            "content": "",
+            "page": "size-chart-for-women-s-bralette"
+          }
+        },
         "collapsible_tab_3rfJzq": {
           "type": "collapsible_tab",
           "settings": {
@@ -107,6 +116,7 @@
         "description",
         "collapsible_tab_QHy3dp",
         "collapsible_tab_ezFCF4",
+        "collapsible_tab_yi7Rkz",
         "collapsible_tab_3rfJzq",
         "collapsible_tab_BbRbAJ",
         "variant_picker",

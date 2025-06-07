@@ -53,6 +53,7 @@
         },
         "collapsible_tab_4P4D8N": {
           "type": "collapsible_tab",
+          "disabled": true,
           "settings": {
             "heading": "Thong Size Chart",
             "icon": "ruler",
@@ -63,7 +64,7 @@
         "collapsible_tab_QHy3dp": {
           "type": "collapsible_tab",
           "settings": {
-            "heading": "What is Sabbe underwear made from?",
+            "heading": "What is Sabbe Underwear Made From?",
             "icon": "leaf",
             "content": "",
             "page": "what-is-sabbe-celebration-made-from"

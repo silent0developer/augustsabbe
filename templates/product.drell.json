@@ -79,10 +79,19 @@
         "collapsible_tab_BbRbAJ": {
           "type": "collapsible_tab",
           "settings": {
-            "heading": "Ordered a Wrong Size?",
+            "heading": "Ordered the Wrong Size?",
             "icon": "return",
-            "content": "<p>99% of our customers choose the right size. If you experience any issue with the fit, we’re here to help — just contact us at <a>andreas@augustsabbe.com</a> and we’ll take care of it.<br/><br/><br/><br/></p>",
-            "page": ""
+            "content": "",
+            "page": "ordered-the-wrong-size"
+          }
+        },
+        "collapsible_tab_LTyNKR": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "What is Sabbe underwear made from?",
+            "icon": "check_mark",
+            "content": "",
+            "page": "what-is-sabbe-sports-made-from"
           }
         },
         "variant_picker": {
@@ -117,6 +126,7 @@
         "collapsible_tab_ezFCF4",
         "collapsible_tab_3rfJzq",
         "collapsible_tab_BbRbAJ",
+        "collapsible_tab_LTyNKR",
         "variant_picker",
         "quantity_selector",
         "price",

@@ -53,7 +53,6 @@
         },
         "collapsible_tab_4P4D8N": {
           "type": "collapsible_tab",
-          "disabled": true,
           "settings": {
             "heading": "Thong Size Chart",
             "icon": "ruler",

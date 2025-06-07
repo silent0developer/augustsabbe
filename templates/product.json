@@ -56,8 +56,8 @@
           "settings": {
             "heading": "Size Chart",
             "icon": "ruler",
-            "content": "<p>Measure your waist.<br/><br/>XS: 76 cm (30 inches)<br/>S: 82 cm (32 inches)<br/>M: 88 cm (34 inches)<br/>L: 94 cm (37 inches)<br/>XL: 100 cm (39 inches)<br/>XXL: 106 cm (42 inches)</p><p>Grab your normal size. Sabbes are the same size as all other top underwear brands (Calvin Klein, Nike, Björn Borg, etc).</p>",
-            "page": ""
+            "content": "",
+            "page": "men-s-underwear-size-chart"
           }
         },
         "collapsible_tab_3rfJzq": {
@@ -72,10 +72,10 @@
         "collapsible_tab_BbRbAJ": {
           "type": "collapsible_tab",
           "settings": {
-            "heading": "Ordered a Wrong Size?",
+            "heading": "Ordered the Wrong Size?",
             "icon": "return",
-            "content": "<p><strong>99% of our customers order the right size. </strong></p><p>If it happens that the Sabbes you ordered are not your fit then please send us an email to andreas@augustsabbe.com, and we'll send you the right size of Sabbes, free of charge.</p>",
-            "page": ""
+            "content": "",
+            "page": "ordered-the-wrong-size"
           }
         },
         "variant_picker": {

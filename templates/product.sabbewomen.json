@@ -42,15 +42,6 @@
           "type": "description",
           "settings": {}
         },
-        "collapsible_tab_QHy3dp": {
-          "type": "collapsible_tab",
-          "settings": {
-            "heading": "What Are Sabbes Made Of?",
-            "icon": "recycle",
-            "content": "",
-            "page": "what-are-sabbes-made-of"
-          }
-        },
         "collapsible_tab_yi7Rkz": {
           "type": "collapsible_tab",
           "settings": {
@@ -60,13 +51,13 @@
             "page": "women-s-thongs-size-chart"
           }
         },
-        "collapsible_tab_EXpHwY": {
+        "collapsible_tab_QHy3dp": {
           "type": "collapsible_tab",
           "settings": {
-            "heading": "Bralette Size Chart",
-            "icon": "ruler",
+            "heading": "What is Sabbe underwear made from?",
+            "icon": "recycle",
             "content": "",
-            "page": "size-chart-for-women-s-bralette"
+            "page": "what-are-sabbes-made-of"
           }
         },
         "collapsible_tab_3rfJzq": {
@@ -114,9 +105,8 @@
         "title",
         "loox_reviews_loox_snippets_widget_LQLW7G",
         "description",
-        "collapsible_tab_QHy3dp",
         "collapsible_tab_yi7Rkz",
-        "collapsible_tab_EXpHwY",
+        "collapsible_tab_QHy3dp",
         "collapsible_tab_3rfJzq",
         "collapsible_tab_BbRbAJ",
         "variant_picker",

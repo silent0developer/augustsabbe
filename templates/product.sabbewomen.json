@@ -45,7 +45,16 @@
         "collapsible_tab_yi7Rkz": {
           "type": "collapsible_tab",
           "settings": {
-            "heading": "Thongs Size Chart",
+            "heading": "Bralette Size Chart",
+            "icon": "ruler",
+            "content": "",
+            "page": "size-chart-for-women-s-bralette"
+          }
+        },
+        "collapsible_tab_4P4D8N": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Thong Size Chart",
             "icon": "ruler",
             "content": "",
             "page": "women-s-thongs-size-chart"
@@ -106,6 +115,7 @@
         "loox_reviews_loox_snippets_widget_LQLW7G",
         "description",
         "collapsible_tab_yi7Rkz",
+        "collapsible_tab_4P4D8N",
         "collapsible_tab_QHy3dp",
         "collapsible_tab_3rfJzq",
         "collapsible_tab_BbRbAJ",

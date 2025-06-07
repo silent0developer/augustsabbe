@@ -42,15 +42,6 @@
           "type": "description",
           "settings": {}
         },
-        "collapsible_tab_QHy3dp": {
-          "type": "collapsible_tab",
-          "settings": {
-            "heading": "What Are Sabbes Made Of?",
-            "icon": "recycle",
-            "content": "<p><strong>Sabbe Daily </strong>95% combed cotton, 5% elastane.</p><p><strong>Sabbe Sports </strong>90% polyester and 10% elastane.</p><p><strong>Sabbe Celebration </strong>95% modal, 5% elastane, a naturally sourced fiber known for its silky softness and durability. An eco-friendly and sustainable material.</p>",
-            "page": ""
-          }
-        },
         "collapsible_tab_ezFCF4": {
           "type": "collapsible_tab",
           "settings": {
@@ -58,6 +49,15 @@
             "icon": "ruler",
             "content": "",
             "page": "men-s-underwear-size-chart"
+          }
+        },
+        "collapsible_tab_QHy3dp": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "What is Sabbe underwear made from?",
+            "icon": "recycle",
+            "content": "",
+            "page": "what-are-sabbes-made-of"
           }
         },
         "collapsible_tab_3rfJzq": {
@@ -105,8 +105,8 @@
         "title",
         "loox_reviews_loox_snippets_widget_LQLW7G",
         "description",
-        "collapsible_tab_QHy3dp",
         "collapsible_tab_ezFCF4",
+        "collapsible_tab_QHy3dp",
         "collapsible_tab_3rfJzq",
         "collapsible_tab_BbRbAJ",
         "variant_picker",

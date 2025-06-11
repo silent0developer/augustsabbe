@@ -374,6 +374,12 @@
         "border_thickness": 0,
         "lazy": true
       }
+    },
+    "1749649932d9753572": {
+      "type": "apps",
+      "settings": {
+        "include_margins": true
+      }
     }
   },
   "order": [
@@ -382,6 +388,7 @@
     "172666972106a9d4cd",
     "17266711164217265c",
     "ss_video_with_text_3_7X4eix",
-    "ss_video_with_text_3_t3VBDE"
+    "ss_video_with_text_3_t3VBDE",
+    "1749649932d9753572"
   ]
 }
